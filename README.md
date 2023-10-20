@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://shorturl.at/evov1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://shorturl.at/evov1" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/taha-ouad-4a8889252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://shorturl.at/evov1" height="30" width="40" /></a>
 <a href="https://instagram.com/https://instagram.com/taha_ouad?igshid=mzmynguynmu2yq==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/taha_ouad?igshid=mzmynguynmu2yq==" height="30" width="40" /></a>
 <a href="https://discord.gg/#0382" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#0382" height="30" width="40" /></a>
 </p>
