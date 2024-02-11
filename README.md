@@ -1,5 +1,9 @@
 # 💫 About Me:
-🌱 I’m currently learning Laravel,React .<br><br>💬 Ask me about Javascript, python and mysql <br><br>📫 How to reach me tahaouad04@gmail.com<br><br>⚡ Fun fact IF IT WORKS DON'T TOUCH IT
+I am a second-year student in professional training in computer science. I am 19 years old and obtained my baccalaureate in 2022 in Physical Sciences with a French option. Currently,I have already completed several projects, both as part of my studies and as personal projects through self-learning.
+
+
+
+
 
 
 ## 🌐 Socials:
