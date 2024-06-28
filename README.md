@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a second-year student in professional training in computer science. I am 19 years old and obtained my baccalaureate in 2022 in Physical Sciences with a French option. Currently,I have already completed several projects, both as part of my studies and as personal projects through self-learning.
+I am a second-year student in professional training in computer science. I am 20 years old and obtained my baccalaureate in 2022 in Physical Sciences with a French option. Currently,I have already completed several projects, both as part of my studies and as personal projects through self-learning.
 
 
 
