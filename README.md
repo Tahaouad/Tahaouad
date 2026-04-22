@@ -1,5 +1,11 @@
 # 💫 About Me:
-I am a second-year student in professional training in computer science. I am 20 years old and obtained my baccalaureate in 2022 in Physical Sciences with a French option. Currently,I have already completed several projects, both as part of my studies and as personal projects through self-learning.
+Développeur Full Stack passionné par la création de solutions digitales utiles et concrètes, spécialisé dans les systèmes intelligents, l’IoT et le développement web moderne.
+
+Diplômé en Licence en systèmes intelligents et IoT ainsi qu’en Technicien Spécialisé en Développement Digital, j’ai eu l’opportunité de travailler sur plusieurs projets utilisant des technologies comme le MERN stack, Spring Boot et Angular, ainsi que sur la conception de solutions SaaS.
+
+Actuellement, j’évolue en tant que développeur Full Stack chez Omnidoic Santé, un acteur majeur du transport sanitaire au Maroc. J’y contribue à la digitalisation des services de santé à travers le développement d’applications qui améliorent l’efficacité opérationnelle et l’expérience utilisateur.
+
+Je travaille au sein d’une équipe dynamique et motivée, avec une forte orientation vers l’innovation et l’impact réel sur le secteur médical.
 
 
 
