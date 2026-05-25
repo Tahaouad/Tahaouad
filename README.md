@@ -1,31 +1,81 @@
-# 💫 About Me:
-Développeur Full Stack passionné par la création de solutions digitales utiles et concrètes, spécialisé dans les systèmes intelligents, l’IoT et le développement web moderne.
+<div align="center">
 
-Diplômé en Licence en systèmes intelligents et IoT ainsi qu’en Technicien Spécialisé en Développement Digital, j’ai eu l’opportunité de travailler sur plusieurs projets utilisant des technologies comme le MERN stack, Spring Boot et Angular, ainsi que sur la conception de solutions SaaS.
+<!-- Header Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=120&section=header&text=Taha%20Ouad&fontSize=36&fontColor=ffffff&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20IoT%20%7C%20Casablanca%2C%20MA&descSize=16&descAlignY=70"/>
 
-Actuellement, j’évolue en tant que développeur Full Stack chez Omnidoic Santé, un acteur majeur du transport sanitaire au Maroc. J’y contribue à la digitalisation des services de santé à travers le développement d’applications qui améliorent l’efficacité opérationnelle et l’expérience utilisateur.
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&color=1D9E75&center=true&vCenter=true&width=600&lines=Building+digital+health+solutions+%F0%9F%8F%A5;MERN+Stack+%7C+Spring+Boot+%7C+Angular;IoT+%7C+SaaS+%7C+Intelligent+Systems)](https://git.io/typing-svg)
 
-Je travaille au sein d’une équipe dynamique et motivée, avec une forte orientation vers l’innovation et l’impact réel sur le secteur médical.
-
-
-
-
-
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/𝓟𝓻𝓸𝓶𝓲𝓼𝓼𝓲𝓸#0382) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ouad.taha) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/taha_ouad) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taha-ouad/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@OuadTaha1) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Tahaouad) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@Taha-Ouad) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Tahaouad&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Tahaouad&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tahaouad&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Tahaouad&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Tahaouad&icon=5&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👋 À propos de moi
+
+Développeur Full Stack passionné par la création de **solutions digitales utiles et concrètes**, spécialisé dans les **systèmes intelligents**, l'**IoT** et le développement web moderne.
+
+- 🏥 Actuellement **Full Stack Developer** chez [Omnidoic Santé](https://omnidoic.ma) — digitalisation du transport sanitaire au Maroc
+- 🎓 Licence **Systèmes Intelligents & IoT** + TS Développement Digital
+- 🔧 Stack principale : **MERN**, **Spring Boot**, **Angular**, **React Native**
+- 🚀 Projets : Applications SaaS, solutions IoT, services de santé numériques
+- 📍 Casablanca, Maroc
+
+> *"I build things that make healthcare more efficient."*
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
+
+**Database & Tools**
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300000f.svg?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Tahaouad&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tahaouad&theme=tokyonight&hide_border=true&layout=compact&count_private=true"/>
+
+</div>
+
+<div align="center">
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tahaouad&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🤝 Connectons-nous
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taha-ouad/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tahaouad)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@Taha-Ouad)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@Tahaouad)
+[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/@OuadTaha1)
+
+</div>
+
+---
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=80&section=footer"/>
+</div>
